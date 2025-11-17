@@ -25,9 +25,9 @@
 ## 4. Routing für öffentliches Subnetz aktivieren
 1. Route Tables → deine VPC finden
 2. Routing-Tabelle auswählen → "Edit routes"
-   - Neue Route:
-     Destination: 0.0.0.0/0
-     Target: Internet Gateway (IGW)
+    - Neue Route:
+    - Destination: 0.0.0.0/0
+    - Target: Internet Gateway (IGW)
 3. Unter "Subnet associations" → "Edit subnet associations"
 4. Öffentliches Subnetz auswählen → speichern
 
@@ -50,22 +50,23 @@
 1. Lade deine .pem-Datei herunter (falls noch nicht geschehen)
 2. Terminal öffnen
 3. Verbindung herstellen:
-   ssh -i deinKey.pem ubuntu@`<PUBLIC-IP-ADDRESS>`
-
+    - ssh -i deinKey.pem ubuntu@`<PUBLIC-IP-ADDRESS>`
 
 ## 7. Webserver installieren und "Hallo Dienstag" anzeigen
 1. Paketliste aktualisieren:
-   sudo apt update
+    - sudo apt update
 
 2. Apache Webserver installieren:
-   sudo apt install apache2 -y
+    - sudo apt install apache2 -y
 
 3. Apache starten & aktivieren:
-   sudo systemctl enable apache2
-   sudo systemctl start apache2
+    - sudo systemctl enable apache2
+    - sudo systemctl start apache2
 
 4. "Hallo Dienstag" als Webseite setzen:
-   echo "Hallo Dienstag" | sudo tee /var/www/html/index.html
+    - sudo nano /var/www/html/index.html
+    - inhalt in `<h1>`oder `<p>` ändern
+
 
 
 ## 8. Test im Browser
