@@ -8,4 +8,6 @@
      sudo ./aws/install
 2. Terminal öffnen
 3. Befehl testen:
-   aws --version
+   - aws --version
+4. Befehl ausführen und Daten aus AWS einfügen:
+   - aws configure
