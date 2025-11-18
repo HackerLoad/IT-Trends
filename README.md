@@ -1,4 +1,6 @@
 # IT-Trends
+Meine Lösungen zu Kontrollfragen findet man [hier](https://github.com/HackerLoad/IT-Trends/blob/main/Kontrollfragen/).
+
 Hier sind Anleitungen für meine IT-Trends HA.
  - erstellen einer [Öffentliche Datei in S3](https://github.com/HackerLoad/IT-Trends/blob/main/Public-S3/Global-S3_04.11.2025.md)
  - einsicht in [AWS CLI](https://github.com/HackerLoad/IT-Trends/blob/main/AWS-CLI/AWS-CLI_04.11.2025.md)
