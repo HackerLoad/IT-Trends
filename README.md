@@ -4,7 +4,7 @@ Hier sind Anleitungen für meine IT-Trends HA.
  - einsicht in [AWS CLI](https://github.com/HackerLoad/IT-Trends/blob/main/AWS-CLI/AWS-CLI_04.11.2025.md)
  - erstellen eines [Sync-Skripts](https://github.com/HackerLoad/IT-Trends/blob/main/Sync-Skript/Sync-Skript_07.11.2025.md)
  - erstellen eines [Linux Rechners](https://github.com/HackerLoad/IT-Trends/blob/main/Linux-Rechner/Linux-Rechner/Linux-Rechner_07.11.2025.md)
- - erstellen eines [Windows Rechners](https://github.com/HackerLoad/IT-Trends/blob/main/WIN-Rechner_13.11.2025.md)
+ - erstellen eines [Windows Rechners](https://github.com/HackerLoad/IT-Trends/blob/main/Win-Rechner/WIN-Rechner_13.11.2025.md)
  - erstellen einer [Linux Instanz mit HTTP Daemon](https://github.com/HackerLoad/IT-Trends/blob/main/Linux-HTTP/Linux-HTTP-Daemon_14.11.2025.md)
  - erstellen einer [Virtual Private Cloud](https://github.com/HackerLoad/IT-Trends/blob/main/VPC/VPC_18.11.2025.md)
 
