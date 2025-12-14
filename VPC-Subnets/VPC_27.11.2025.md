@@ -17,12 +17,12 @@
     ### 1. Subnetz (Öffentlich)
     - Name: sub1-pub
     - Availability Zone: egal
-    - IPv4 CIDR: 10.12.0.0/16
+    - IPv4 CIDR: 10.12.0.0/24
 
     ### 2. / 3. / 4. & 5. Subnetz (Öffentlich)
     - Name: subx-prv
     - Availability Zone: egal
-    - IPv4 CIDR: 10.12.0.n/16 (n = 2 / 3 / 4 / 5)
+    - IPv4 CIDR: 10.12.0.n/24 (n = 2 / 3 / 4 / 5)
 
 ## 3. Internet Gateway erstellen
 1. Internet Gateways --> Internet Gateway erstellen
